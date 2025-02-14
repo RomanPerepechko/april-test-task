@@ -1,4 +1,4 @@
-export enum ViewMode {
+export const enum ViewMode {
     List = 'list',
     Grid = 'grid'
 }
